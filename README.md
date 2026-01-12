@@ -80,9 +80,14 @@ My focus is on **practical DevOps skills**, clean workflows, and continuous impr
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinugalla&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srinugalla&show_icons=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=srinugalla)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=srinugalla" alt="GitHub Streak" />
+</p>
+
 
 ---
 
