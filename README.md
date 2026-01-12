@@ -80,13 +80,11 @@ My focus is on **practical DevOps skills**, clean workflows, and continuous impr
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinugalla&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=srinugalla" alt="GitHub Streak" />
-</p>
+- Repositories focus on **DevOps automation, CI/CD pipelines, and infrastructure as code**
+- Hands-on work with **Linux, cloud platforms, containers, and orchestration**
+- Emphasis on **clean code, reproducible environments, and reliable workflows**
+- Projects reflect **practical problem-solving** and continuous improvement
+- Learning and experimentation guided by **real-world DevOps use cases**
 
 
 ---
