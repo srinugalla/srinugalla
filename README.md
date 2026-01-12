@@ -65,7 +65,6 @@ My focus is on **practical DevOps skills**, clean workflows, and continuous impr
 ✔️ Container-based deployments  
 ✔️ DevOps workflows and best practices  
 
-*(Hands-on projects and examples will be added as they evolve)*
 
 ---
 
