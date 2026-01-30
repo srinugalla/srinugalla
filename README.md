@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Srinugalla
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Srinivasarao Galla
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=srinugalla&color=blue)
