@@ -92,7 +92,8 @@ My focus is on **practical DevOps skills**, clean workflows, and continuous impr
 
 ## 📫 Connect
 
-- 🧑‍💻 GitHub: https://github.com/srinugalla
+- 🧑‍💻 GitHub: https://github.com/srinugalla  
+- 💼 LinkedIn: https://www.linkedin.com/in/sgalla
 
 ---
 
