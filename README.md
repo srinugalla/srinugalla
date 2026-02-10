@@ -1,26 +1,34 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Srinivasarao Galla
-
+# Hi there 👋 I’m Srinivasarao Galla
 
 ![Profile Views](https://komarev.com/ghpvc/?username=srinugalla&color=blue)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/srinugalla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sgalla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sgalla.ie-success)](https://sgalla.ie)
 
-🚀 DevOps Engineer with hands-on experience in automation, CI/CD, and cloud infrastructure  
-🔧 Passionate about building reliable systems and improving deployment workflows  
-📈 Continuously learning and applying DevOps best practices in real-world environments  
+🚀 **DevOps Engineer** focused on automation, CI/CD, and cloud-native infrastructure  
+🔧 I help teams ship faster, safer, and more reliably through DevOps best practices  
+☁️ Hands-on experience with containers, Kubernetes, and Infrastructure as Code  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **DevOps Engineer**, working across Linux systems, CI/CD pipelines, cloud platforms, and containerised applications.
+I’m a **DevOps Engineer** with strong hands-on experience designing, building, and operating modern cloud infrastructure.
 
-I enjoy automating repetitive tasks, improving deployment reliability, and collaborating with teams to deliver scalable and maintainable infrastructure.  
-My focus is on **practical DevOps skills**, clean workflows, and continuous improvement.
+I enjoy turning complex manual processes into **simple, automated workflows**, improving system reliability, and enabling developers to deliver features with confidence.
+
+My work focuses on:
+- Automation over manual effort  
+- Reproducible, scalable infrastructure  
+- Clean CI/CD pipelines  
+- Real-world DevOps problem solving  
+
+👉 **Portfolio:** https://sgalla.ie  
+(My projects, experience, and technical approach in one place)
 
 ---
 
-## 🛠️ Skills & Tools ⚙️
+## 🛠️ Skills & Technologies
 
 ### 🔹 Operating Systems & Scripting
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
@@ -47,54 +55,46 @@ My focus is on **practical DevOps skills**, clean workflows, and continuous impr
 
 ---
 
-## 🔁 What I’m Working On
+## 🔁 What I’m Currently Doing
 
-- Building and improving **CI/CD pipelines**
-- Containerising applications using **Docker**
-- Managing infrastructure using **Terraform**
-- Deploying and operating workloads on **Kubernetes**
-- Strengthening Linux administration and troubleshooting skills
-- Learning monitoring and observability fundamentals
-
----
-
-## 📂 Practical Focus Areas
-
-✔️ CI/CD automation  
-✔️ Cloud infrastructure provisioning  
-✔️ Configuration management concepts  
-✔️ Container-based deployments  
-✔️ DevOps workflows and best practices  
-
+- Designing **CI/CD pipelines** for automated testing and deployments  
+- Containerising applications with **Docker**  
+- Deploying and managing workloads on **Kubernetes**  
+- Provisioning cloud infrastructure using **Terraform**  
+- Strengthening Linux administration and troubleshooting  
+- Building foundational **monitoring and observability** skills  
 
 ---
 
-## 🎯 Goals
+## 📂 What You’ll Find in My Repositories
 
-- Build and maintain **reliable and scalable cloud infrastructure**
-- Improve **deployment speed, stability, and automation**
-- Strengthen expertise in **Kubernetes and Infrastructure as Code**
-- Gain deeper exposure to **monitoring, security, and cost optimisation**
-- Grow into a strong, well-rounded **DevOps Engineer**
+✔️ CI/CD pipeline implementations  
+✔️ Infrastructure as Code (Terraform)  
+✔️ Dockerised applications  
+✔️ Kubernetes deployment manifests  
+✔️ Practical DevOps labs and experiments  
+✔️ Real-world automation examples  
 
----
-
-## 📊 GitHub Overview
-
-- Repositories focus on **DevOps automation, CI/CD pipelines, and infrastructure as code**
-- Hands-on work with **Linux, cloud platforms, containers, and orchestration**
-- Emphasis on **clean code, reproducible environments, and reliable workflows**
-- Projects reflect **practical problem-solving** and continuous improvement
-- Learning and experimentation guided by **real-world DevOps use cases**
-
+Each repository reflects **hands-on learning, clean structure, and production-style thinking**.
 
 ---
 
-## 📫 Connect
+## 🎯 Professional Goals
+
+- Build and operate **reliable, scalable cloud platforms**
+- Improve **deployment speed, quality, and automation**
+- Deepen expertise in **Kubernetes and cloud-native tooling**
+- Expand into **monitoring, security, and cost optimisation**
+- Grow into a **senior, impact-driven DevOps Engineer**
+
+---
+
+## 📫 Let’s Connect
 
 - 🧑‍💻 GitHub: https://github.com/srinugalla  
-- 💼 LinkedIn: https://www.linkedin.com/in/sgalla
+- 💼 LinkedIn: https://www.linkedin.com/in/sgalla  
+- 🌐 Portfolio: https://sgalla.ie  
 
 ---
 
-⭐ *Building, automating, and learning every day.*
+⭐ *I build systems that scale, automate workflows, and keep production running smoothly.*
