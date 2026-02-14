@@ -1,101 +1,117 @@
-# # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Srinivasarao Galla
+<h1 align="center">Srinivasarao Galla</h1>
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=srinugalla&color=blue)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/srinugalla)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sgalla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sgalla.ie-success)](https://sgalla.ie)
-
-🚀 **DevOps Engineer** focused on automation, CI/CD, and cloud-native infrastructure  
-🔧 I help teams ship faster, safer, and more reliably through DevOps best practices  
-☁️ Hands-on experience with containers, Kubernetes, and Infrastructure as Code  
+<p align="center">
+DevOps Engineer • AWS • Kubernetes • Terraform • CI/CD  
+<br/>
+Dublin, Ireland
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I’m a **DevOps Engineer** with strong hands-on experience designing, building, and operating modern cloud infrastructure.
+I build reliable cloud infrastructure, deployment pipelines, and monitoring systems that allow teams to ship safely and consistently.
 
-I enjoy turning complex manual processes into **simple, automated workflows**, improving system reliability, and enabling developers to deliver features with confidence.
+My focus is on:
 
-My work focuses on:
-- Automation over manual effort  
-- Reproducible, scalable infrastructure  
-- Clean CI/CD pipelines  
-- Real-world DevOps problem solving  
+* automation over manual processes
+* repeatable infrastructure
+* production reliability
+* observable systems
 
-👉 **Portfolio:** https://sgalla.ie  
-(My projects, experience, and technical approach in one place)
+I combine hands-on DevOps engineering with strong delivery coordination experience, allowing me to work effectively across development, operations, and product teams.
 
 ---
 
-## 🛠️ Skills & Technologies
+## DevOps Stack
 
-### 🔹 Operating Systems & Scripting
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
+### Cloud & Infrastructure
 
-### 🔹 Version Control & CI/CD
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-blue?logo=github-actions)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
 
-### 🔹 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+### Containers & Platforms
 
-### 🔹 Infrastructure & Cloud
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 
-### 🔹 Web & Dev Tools
-![Nginx](https://img.shields.io/badge/Nginx-green?logo=nginx)
-![VS_Code](https://img.shields.io/badge/VS_Code-blue?logo=visual-studio-code)
+### CI/CD & Automation
 
----
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
-## 🔁 What I’m Currently Doing
+### Monitoring
 
-- Designing **CI/CD pipelines** for automated testing and deployments  
-- Containerising applications with **Docker**  
-- Deploying and managing workloads on **Kubernetes**  
-- Provisioning cloud infrastructure using **Terraform**  
-- Strengthening Linux administration and troubleshooting  
-- Building foundational **monitoring and observability** skills  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+
+### Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 ---
 
-## 📂 What You’ll Find in My Repositories
+## Portfolio
 
-✔️ CI/CD pipeline implementations  
-✔️ Infrastructure as Code (Terraform)  
-✔️ Dockerised applications  
-✔️ Kubernetes deployment manifests  
-✔️ Practical DevOps labs and experiments  
-✔️ Real-world automation examples  
+Interactive portfolio site:
 
-Each repository reflects **hands-on learning, clean structure, and production-style thinking**.
+👉 https://www.sgalla.ie
 
----
+Includes:
 
-## 🎯 Professional Goals
-
-- Build and operate **reliable, scalable cloud platforms**
-- Improve **deployment speed, quality, and automation**
-- Deepen expertise in **Kubernetes and cloud-native tooling**
-- Expand into **monitoring, security, and cost optimisation**
-- Grow into a **senior, impact-driven DevOps Engineer**
+* experience timeline
+* technical skills
+* recruiter-ready CV
+* direct contact options
 
 ---
 
-## 📫 Let’s Connect
+## GitHub Activity
 
-- 🧑‍💻 GitHub: https://github.com/srinugalla  
-- 💼 LinkedIn: https://www.linkedin.com/in/sgalla  
-- 🌐 Portfolio: https://sgalla.ie  
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=srinugalla&show_icons=true&theme=default"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinugalla&layout=compact"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srinugalla"/>
+
+</p>
 
 ---
 
-⭐ *I build systems that scale, automate workflows, and keep production running smoothly.*
+## Current Focus
+
+* strengthening Terraform infrastructure patterns
+* improving Kubernetes deployment safety
+* building reliable CI/CD workflows
+* improving observability and alert quality
+
+---
+
+## Contact
+
+LinkedIn
+https://www.linkedin.com/in/sgalla
+
+Email
+[srinu.galla@gmail.com](mailto:srinu.galla@gmail.com)
+
+Portfolio
+https://www.sgalla.ie
+
+---
+
+## Working Principles
+
+* Automate the boring parts
+* Prefer repeatability over heroics
+* Observability is a feature
+* Ship small changes safely
+
+---
