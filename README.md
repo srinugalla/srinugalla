@@ -8,89 +8,86 @@ Dublin, Ireland
 
 ---
 
-## About Me
+## About
 
-I build reliable cloud infrastructure, deployment pipelines, and monitoring systems that allow teams to ship safely and consistently.
+DevOps Engineer focused on building reliable cloud infrastructure, automated deployment pipelines, container platforms, and monitoring systems for production environments.
 
-My focus is on:
+I help teams:
 
-* automation over manual processes
-* repeatable infrastructure
-* production reliability
-* observable systems
-
-I combine hands-on DevOps engineering with strong delivery coordination experience, allowing me to work effectively across development, operations, and product teams.
+* deploy safely and consistently
+* reduce manual operational work
+* improve deployment reliability
+* strengthen monitoring visibility
 
 ---
 
 ## DevOps Stack
 
-### Cloud & Infrastructure
+**Cloud**
+AWS (EC2, S3, IAM, VPC)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+**Containers & Platforms**
+Docker
+Kubernetes
 
-### Containers & Platforms
+**CI/CD & Automation**
+Jenkins
+GitHub Actions
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+**Infrastructure as Code**
+Terraform
 
-### CI/CD & Automation
+**Monitoring & Observability**
+Prometheus
+Grafana
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-
-### Monitoring
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-
-### Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+**Systems & Automation**
+Linux
+Bash scripting
 
 ---
 
-## Portfolio
+## Proof of Work
 
-Interactive portfolio site:
+### Interactive Portfolio
 
-👉 https://www.sgalla.ie
+Production portfolio with experience, skills, recruiter-ready CV, and contact options
 
-Includes:
-
-* experience timeline
-* technical skills
-* recruiter-ready CV
-* direct contact options
+https://www.sgalla.ie
+https://github.com/srinugalla/sgalla.ie
 
 ---
 
-## GitHub Activity
+### Kubernetes Mongo Deployment
 
-<p align="center">
+Example Kubernetes manifests demonstrating:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=srinugalla&show_icons=true&theme=default"/>
+* container deployment
+* persistent storage setup
+* service configuration
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinugalla&layout=compact"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srinugalla"/>
-
-</p>
+https://github.com/srinugalla/Kubernetes-Mongo
 
 ---
 
-## Current Focus
+### Dockerised Application — thewall.life
 
-* strengthening Terraform infrastructure patterns
-* improving Kubernetes deployment safety
-* building reliable CI/CD workflows
-* improving observability and alert quality
+Container build demonstrating:
+
+* Docker image creation
+* repeatable runtime environment
+* deployment-ready packaging
+
+https://github.com/srinugalla/thewall.life
+
+---
+
+## Working Style
+
+* Automate the repetitive work
+* Prefer repeatable infrastructure over manual fixes
+* Treat observability as a core feature
+* Ship small changes safely
 
 ---
 
@@ -99,19 +96,8 @@ Includes:
 LinkedIn
 https://www.linkedin.com/in/sgalla
 
-Email
-[srinu.galla@gmail.com](mailto:srinu.galla@gmail.com)
-
 Portfolio
 https://www.sgalla.ie
 
----
-
-## Working Principles
-
-* Automate the boring parts
-* Prefer repeatability over heroics
-* Observability is a feature
-* Ship small changes safely
-
----
+Email
+[srinu.galla@gmail.com](mailto:srinu.galla@gmail.com)
