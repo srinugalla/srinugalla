@@ -51,7 +51,7 @@ Bash scripting
 
 ### Interactive Portfolio
 
-Production portfolio with experience, skills, recruiter-ready CV, and contact options
+Live portfolio with experience, skills, CV, and contact options
 
 https://www.sgalla.ie
 https://github.com/srinugalla/sgalla.ie
