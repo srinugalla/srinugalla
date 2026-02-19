@@ -1,97 +1,141 @@
-<h1 align="center">Srinivasarao Galla</h1>
+# Srinivasarao Galla
 
-<p align="center">
-DevOps Engineer • AWS • Kubernetes • Terraform • CI/CD  
-<br/>
+**DevOps Engineer | Cloud Infrastructure | Kubernetes Platforms | Automated Delivery Systems**
+AWS • Kubernetes • Terraform • GitOps • Argo CD • Python • CI/CD
 Dublin, Ireland
-</p>
 
 ---
 
-## About
+# Production Architecture Mindset
 
-DevOps Engineer focused on building reliable cloud infrastructure, automated deployment pipelines, container platforms, and monitoring systems for production environments.
+Typical delivery workflow I work with:
 
-I help teams:
+```
+Developer Commit
+    ↓
+Git Repository
+    ↓
+CI Pipeline (Jenkins / GitHub Actions)
+    ↓
+Container Build (Docker)
+    ↓
+Registry Push
+    ↓
+Kubernetes Deployment
+    ↓
+GitOps Sync (Argo CD)
+    ↓
+Monitoring (Prometheus + Grafana)
+```
 
-* deploy safely and consistently
-* reduce manual operational work
-* improve deployment reliability
-* strengthen monitoring visibility
-
----
-
-## DevOps Stack
-
-**Cloud**
-AWS (EC2, S3, IAM, VPC)
-
-**Containers & Platforms**
-Docker
-Kubernetes
-
-**CI/CD & Automation**
-Jenkins
-GitHub Actions
-
-**Infrastructure as Code**
-Terraform
-
-**Monitoring & Observability**
-Prometheus
-Grafana
-
-**Systems & Automation**
-Linux
-Bash scripting
+Focus: repeatable deployments, controlled releases, observable production systems.
 
 ---
 
-## Proof of Work
+# About Me
 
-### Interactive Portfolio
+DevOps Engineer focused on building scalable cloud infrastructure, Kubernetes environments, and automated deployment workflows for production systems.
 
-Live portfolio with experience, skills, CV, and contact options
+I specialise in infrastructure as code, container orchestration, and CI/CD automation using AWS, Terraform, Kubernetes, Python scripting, and GitOps workflows with Argo CD.
 
-https://www.sgalla.ie
-https://github.com/srinugalla/sgalla.ie
-
----
-
-### Kubernetes Mongo Deployment
-
-Example Kubernetes manifests demonstrating:
-
-* container deployment
-* persistent storage setup
-* service configuration
-
-https://github.com/srinugalla/Kubernetes-Mongo
+My goal is to reduce operational risk, remove manual deployment steps, and provide stable platforms that allow engineering teams to deliver safely and consistently.
 
 ---
 
-### Dockerised Application — thewall.life
+# Core DevOps Capabilities
 
-Container build demonstrating:
+## Cloud Infrastructure
 
-* Docker image creation
-* repeatable runtime environment
-* deployment-ready packaging
+* AWS environment provisioning (EC2, IAM, S3, VPC networking)
+* Secure access configuration and environment isolation
+* Repeatable infrastructure deployment using Terraform
 
-https://github.com/srinugalla/thewall.life
+## Kubernetes & Containers
+
+* Docker image creation and runtime configuration
+* Kubernetes workload deployment and service exposure
+* Helm configuration management
+* Multi-environment deployment consistency
+
+## CI/CD & GitOps
+
+* Jenkins and GitHub Actions pipeline automation
+* Git-driven deployment workflows
+* Continuous delivery using Argo CD
+* Version-controlled release processes
+
+## Automation
+
+* Python scripting for operational tooling
+* Bash automation for deployment and environment setup
+* Reduction of manual infrastructure changes
+
+## Observability
+
+* Prometheus metrics collection
+* Grafana dashboards and alert visibility
+* Monitoring-first production mindset
 
 ---
 
-## Working Style
+# Selected Engineering Work
 
-* Automate the repetitive work
-* Prefer repeatable infrastructure over manual fixes
-* Treat observability as a core feature
-* Ship small changes safely
+## Live Engineering Portfolio
+
+Production-style portfolio showing experience, stack, and projects.
+
+🌐 https://www.sgalla.ie
+💻 https://github.com/srinugalla/sgalla.ie
 
 ---
 
-## Contact
+## Kubernetes MongoDB Deployment Example
+
+Repository demonstrating Kubernetes configuration for stateful workloads.
+
+💻 https://github.com/srinugalla/Kubernetes-Mongo
+
+Includes:
+
+* deployment manifests
+* persistent storage configuration
+* service exposure setup
+* Kubernetes resource structuring
+
+---
+
+## Dockerised Application Build — thewall.life
+
+Example application packaged into a reproducible container environment.
+
+💻 https://github.com/srinugalla/thewall.life
+
+Demonstrates:
+
+* Docker image construction
+* runtime environment consistency
+* deployment-ready container packaging
+
+---
+
+# Engineering Principles
+
+* Automate anything repeated more than twice
+* Prefer infrastructure defined in code over manual configuration
+* Make deployments small, predictable, and reversible
+* Treat monitoring as a required production feature
+* Optimise systems for reliability before adding complexity
+
+---
+
+# Professional Status
+
+DevOps Engineer based in Dublin, Ireland
+Irish citizen — eligible to work across Ireland and the EU
+
+---
+
+# Contact
 
 LinkedIn
 https://www.linkedin.com/in/sgalla
